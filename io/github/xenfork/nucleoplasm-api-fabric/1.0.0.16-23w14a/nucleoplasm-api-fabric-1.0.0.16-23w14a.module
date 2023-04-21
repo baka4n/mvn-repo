@@ -27,11 +27,11 @@
         {
           "name": "nucleoplasm-api-fabric-1.0.0.16-23w14a.jar",
           "url": "nucleoplasm-api-fabric-1.0.0.16-23w14a.jar",
-          "size": 982338,
-          "sha512": "0112515589d102a94ce2304a789db468548508094167d8b0549d74164372a5d385c3c50594fd2efe0c0c6f86a865dc3b09e1bc0ef27370d36ee08f43a31380a8",
-          "sha256": "04a8a114e9b8b40bf74eaca589a0b600a942d2e08bcd999379b4f6d6ca5f9682",
-          "sha1": "ad00fd90687e7ef2c7c311c4b607a579774acc95",
-          "md5": "3102c3f8e90546aad740845889b5e725"
+          "size": 982333,
+          "sha512": "ec4b2dbb063c5cbf999d2ff309b96afec851d927126077cf199e36a2bd6b516a3b160159191b7f4d738785b9f2bf2117ef0d45ab1b6960091a58a695592c8f64",
+          "sha256": "5d46b80f404837fb1d9a0991c650ebd432aaf13a546e6480b6024b17a89fa304",
+          "sha1": "e4206ea3e7146eeade653088ebbce52162d097c5",
+          "md5": "47ed4c3e3206f653b632eba347f8e20b"
         }
       ]
     },
@@ -119,11 +119,11 @@
         {
           "name": "nucleoplasm-api-fabric-1.0.0.16-23w14a.jar",
           "url": "nucleoplasm-api-fabric-1.0.0.16-23w14a.jar",
-          "size": 982338,
-          "sha512": "0112515589d102a94ce2304a789db468548508094167d8b0549d74164372a5d385c3c50594fd2efe0c0c6f86a865dc3b09e1bc0ef27370d36ee08f43a31380a8",
-          "sha256": "04a8a114e9b8b40bf74eaca589a0b600a942d2e08bcd999379b4f6d6ca5f9682",
-          "sha1": "ad00fd90687e7ef2c7c311c4b607a579774acc95",
-          "md5": "3102c3f8e90546aad740845889b5e725"
+          "size": 982333,
+          "sha512": "ec4b2dbb063c5cbf999d2ff309b96afec851d927126077cf199e36a2bd6b516a3b160159191b7f4d738785b9f2bf2117ef0d45ab1b6960091a58a695592c8f64",
+          "sha256": "5d46b80f404837fb1d9a0991c650ebd432aaf13a546e6480b6024b17a89fa304",
+          "sha1": "e4206ea3e7146eeade653088ebbce52162d097c5",
+          "md5": "47ed4c3e3206f653b632eba347f8e20b"
         }
       ]
     },
